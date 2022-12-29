@@ -9,7 +9,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiZXNpbHZhLTEiLCJhIjoiY2tvOWJweWFkMGo0YTJ4cWh2e
             container: 'map', //container ID
             style: 'mapbox://styles/esilva-1/clc96vl41000614p751zevmlb', //style url
             center: [-73.978,40.752], //starting position [lng, lat]
-            zoom: 12,0 //starting zoom
+            zoom: 12.0, //starting zoom
             maxBounds: bounds //bounds set as max
                         //place this in js and add src at the bottom
         });
