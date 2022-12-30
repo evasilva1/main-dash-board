@@ -51,7 +51,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiZXNpbHZhLTEiLCJhIjoiY2tvOWJweWFkMGo0YTJ4cWh2e
                 document.getElementById('pd').innerHTML =
                   '<h3><strong>Project: ' +
                   states[0].properties.Name +
-                  '</strong></br>&nbsp;&nbsp;Address: ' +
+                  '</strong></h3>&nbsp;&nbsp;Address: ' +
                   states[0].properties.Address +
                   '</br>&nbsp;&nbsp;Contact: '+
                   states[0].properties.Contact_Name +
