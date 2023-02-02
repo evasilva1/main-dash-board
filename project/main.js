@@ -3,7 +3,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiZXNpbHZhLTEiLCJhIjoiY2tvOWJweWFkMGo0YTJ4cWh2e
         let bounds = [
         [-75.53,39.5],
         [-71.01,42.49]
-        ];
+        ]; //might need to get rid of bounds
 
         var map = new mapboxgl.Map({
             container: 'map', //container ID
