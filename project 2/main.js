@@ -1,4 +1,4 @@
-//-75.53,39.5,-71.01,42.49
+//-75.53,39.5,-71.01,42.49 - center around
 mapboxgl.accessToken = 'pk.eyJ1IjoiZXNpbHZhLTEiLCJhIjoiY2xkbmN1Y2NrMGh4azNvdGI4M29xOG9keiJ9._d-9iIdLmSUJGvhXCmbTFA';
 
 const map = new mapboxgl.Map({
